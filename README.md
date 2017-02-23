@@ -7,7 +7,7 @@ This function clones the original image...
 ![Original image](https://github.com/svirmasalo/colorize-images-wordpress-snippet/images/last-rays.jpg)
 
 ...And turns it into this:
-![Original image](https://github.com/svirmasalo/colorize-images-wordpress-snippet/images/last-rays_colorized.jpg)
+![Colorized copy](https://github.com/svirmasalo/colorize-images-wordpress-snippet/images/last-rays_colorized.jpg)
 
 OR what ever color you wish.
 
