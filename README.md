@@ -4,10 +4,10 @@ If you for some reason need to automatically convert original image to colorized
 ## What it does?
 This function clones the original image...
 
-![Original image](https://github.com/svirmasalo/colorize-images-wordpress-snippet/images/last-rays.jpg)
+![Original image](https://github.com/svirmasalo/colorize-images-wordpress-snippet/blob/master/images/last-rays.jpg)
 
 ...And turns it into this:
-![Colorized copy](https://github.com/svirmasalo/colorize-images-wordpress-snippet/images/last-rays_colorized.jpg)
+![Colorized copy](https://github.com/svirmasalo/colorize-images-wordpress-snippet/blob/master/images/last-rays_colorized.jpg)
 
 OR what ever color you wish.
 
